@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Diwase</h1>
-<h3 align="center">A aspiring Software Developer from India</h3>
+<h3 align="center">A curious developer </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
